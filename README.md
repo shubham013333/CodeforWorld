@@ -31,4 +31,4 @@ Contributions are welcomed and encouraged. If you find any issues, have suggesti
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ShubhamShrii License - see the [LICENSE](LICENSE) file for details.
